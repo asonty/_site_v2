@@ -2,10 +2,10 @@
 name = "test_font"
 
 # Optional Google font URL
-google_fonts = "Lekton:400,400italic|Roboto:300,300italic,400,400italic|Roboto+Mono"
+google_fonts = "Lekton:400,400italic|Roboto:300,300italic|Roboto+Mono"
 
 # Font families
 heading_font = "Lekton"
-body_font = "Lekton"
+body_font = "Roboto Light"
 nav_font = "Lekton"
 mono_font = "Roboto Mono"
