@@ -1,0 +1,11 @@
+# Font style metadata
+name = "test_font"
+
+# Optional Google font URL
+google_fonts = "Lekton:400,400italic|Roboto:300,300italic,400,400italic|Roboto+Mono"
+
+# Font families
+heading_font = "Lekton"
+body_font = "Roboto Light"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
