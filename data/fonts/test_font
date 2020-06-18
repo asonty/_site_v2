@@ -6,6 +6,6 @@ google_fonts = "Lekton:400,400italic|Roboto:300,300italic,400,400italic|Roboto+M
 
 # Font families
 heading_font = "Lekton"
-body_font = "Roboto Light"
-nav_font = "Roboto"
+body_font = "Lekton"
+nav_font = "Lekton"
 mono_font = "Roboto Mono"
