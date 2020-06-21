@@ -1,4 +1,5 @@
 ---
+# Place "avatar.jpg" in /authors/admin to add display pic
 # Display name
 title: Nelson Bighetti
 
