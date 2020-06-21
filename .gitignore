@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+
+# my academic theme
+themes/as_academic/
